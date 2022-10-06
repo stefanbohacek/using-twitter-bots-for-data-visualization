@@ -1,0 +1,6 @@
+tweepy==4.6.0
+seaborn
+matplotlib
+numpy
+pandas==1.2.4
+python-dotenv
